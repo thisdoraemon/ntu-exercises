@@ -22,4 +22,4 @@ If you have any additional exercises that you would like to add to this reposito
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](https://github.com/umjiiii/ntu-exercises/blob/main/LICENSE).
