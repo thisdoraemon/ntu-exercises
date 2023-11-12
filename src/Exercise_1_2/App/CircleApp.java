@@ -16,6 +16,6 @@ public class CircleApp {
 
         // Test getArea() and getCircumference()
         System.out.printf("area is: %.2f%n", c1.getArea());
-        System.out.printf("circumference is: %.2f%n", c1.getCircumference());
+        System.out.printf("circumference is: %.2f%sn", c1.getCircumference());
     }
 }
