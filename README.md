@@ -6,7 +6,7 @@ This repository contains all of the exercises from the Java OOP course at [NTU](
 
 1. To run the exercises, simply clone the repository:
    ```bash
-    git clone https://github.com/umjiiii/ntu-exercises
+    git clone https://github.com/koala-alay/ntu-exercises
    ```
 2. Then, you can go to the `src/` folder and look for my solution to your current problem.
    
