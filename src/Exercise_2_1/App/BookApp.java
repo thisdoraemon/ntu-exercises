@@ -1,4 +1,4 @@
-package Exercise_2_1;
+package Exercise_2_1.App;
 
 import Exercise_2_1.Data.Author;
 import Exercise_2_1.Data.Book;
