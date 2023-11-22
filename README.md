@@ -6,7 +6,7 @@ This repository contains all of the exercises from the Java OOP course at [NTU](
 
 1. To run the exercises, simply clone the repository:
    ```bash
-    git clone https://github.com/koala-alay/ntu-exercises
+    git clone https://github.com/thisdoraemon/ntu-exercises
    ```
 2. Then, you can go to the `src/` folder and look for my solution to your current problem.
    
@@ -22,4 +22,4 @@ If you have any additional exercises that you would like to add to this reposito
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/umjiiii/ntu-exercises/blob/main/LICENSE).
+This repository is licensed under the [MIT License](https://github.com/thisdoraemon/ntu-exercises/blob/main/LICENSE).
